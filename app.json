@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Jodi Banao",
+    "slug": "Jodi Banao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Jodi Banao"
+}
